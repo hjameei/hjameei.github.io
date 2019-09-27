@@ -71,24 +71,11 @@ education:
         pretium quis, sem.
           - GPA: 17.95/20 (3.82/4)
 
-education:
     - degree: High School Diploma in Mathematics and Physics
       university: Farzanegan 1 High School (NODET)
       time: Sept. 2008 - June 2012
       details: |
           - GPA: 19.37/20
-          
-
-    - degree: BSc in Computer Engineering, Software Field
-      university: University of Tehran
-      time: Sept. 2012 - Sept. 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - GPA: 17.95/20 (3.82/4)
 
 experiences:
     - role: Lead Developer
