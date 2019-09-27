@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hadis Jamee
+    name: Hadis Jameei
     tagline: Rsearch Engineer at danaXa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: hadisjameei@gmail.com
+    phone: +98 912 072 0942
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
@@ -53,26 +53,42 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
+    - degree: MSc in Computer Engineering, Artificial Intelligence Field
       university: University of Tehran
       time: Sept. 2016 - July 2019
       details: |
-        MSc. of Computer Engineering, Artificial Intelligence Field
           - GPA: 19.0/20 (4/4)
           - Supervisor: [Dr. Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Engineering, Software Field
+      university: University of Tehran
+      time: Sept. 2012 - Sept. 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
+          - GPA: 17.95/20 (3.82/4)
 
-          - Bullet point
-          - Bullet point
+education:
+    - degree: High School Diploma in Mathematics and Physics
+      university: Farzanegan 1 High School (NODET)
+      time: Sept. 2008 - June 2012
+      details: |
+          - GPA: 19.37/20
+          
+
+    - degree: BSc in Computer Engineering, Software Field
+      university: University of Tehran
+      time: Sept. 2012 - Sept. 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - GPA: 17.95/20 (3.82/4)
 
 experiences:
     - role: Lead Developer
