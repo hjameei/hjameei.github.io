@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Hadis Jamee
+    tagline: Rsearch Engineer at danaXa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,23 +25,20 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Persian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Swimming
         link:
 
-      - item: Snowboarding
+      - item: Reading novels
         link:
 
-      - item: Cooking
+      - item: TV series
         link:
 
 career-profile:
@@ -57,17 +54,12 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Tehran
+      time: Sept. 2016 - July 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        MSc. of Computer Engineering, Artificial Intelligence Field
+          - GPA: 19.0/20 (4/4)
+          - Supervisor: [Dr. Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
