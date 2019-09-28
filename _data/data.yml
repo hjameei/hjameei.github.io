@@ -287,8 +287,10 @@ skills:
 
       - category: Languages
         items:
-          - item: TOEFL 99 (R:27 L:27 S:23 W:22)
-          - item: GRE V:146 Q:170 A:3.5
+          - item: |
+            ** TOEFL ** 99 (R:27 L:27 S:23 W:22)
+          - item: |
+            ** GRE ** V:146 Q:170 A:3.5
 
 
 
