@@ -161,6 +161,16 @@ projects:
         link:
         tagline: Design and implementation of multi-threaded & multi-user object-oriented project manager system similar to [Trello](https://trello.com), developed in C++
 
+honors:
+    title: Honors and Awards
+
+    honorlist:
+      - role: a
+        time: a
+        company: a
+
+
+
 publications:
     title: Publications
     intro: |
