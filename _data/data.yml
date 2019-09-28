@@ -111,15 +111,15 @@ projects:
 
       - title: Bio-inspired Engineering
         link: 
-        tagline: Solving the vehicle routing problem using Ant Colony Optimization algorithm
+        tagline: Solving the vehicle routing problem using Ant Colony Optimization algorithm, developed in Python
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Data Analytics
+        link: 
+        tagline: Classification of CIFAR-100 dataset by a self-implemented neural network, developed in Python using Tensorflow
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Advanced Robotics
+        link: 
+        tagline: Localization of E-puck mobile robot by particle filter algorithm, developed in C++ using Visual Studio and Webots
 
 publications:
     title: Publications
