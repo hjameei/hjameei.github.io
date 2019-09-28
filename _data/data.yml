@@ -235,7 +235,6 @@ certificates:
         time: Nov. 2015
         company: Ericsson Middle East University Program
 
-
 publications:
     title: Publications
     intro: |
@@ -255,6 +254,31 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+
+courses:
+    title: Course work
+
+    toolset:
+      - category: Graduate
+        items:
+          - item: Machine Learning
+          - item: Pattern Recognition
+          - item: Social Networks
+          - item: Statistical Inference
+          - item: Data Analytics
+          - item: Advanced Robotics
+          - item: Bio-inspired Computing
+          - item: An Introduction to Cognitive Neuroscience
+
+      - category: Undergraduate
+        items:
+          - item: Artificial Intelligence 
+          - item: Probability and Statistics
+          - item: Design and Analysis of Algorithms
+          - item: Human-Computer Interaction 
+          - item: Data Structures 
+
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -289,12 +313,6 @@ skills:
         items:
           - item: TOEFL 99 (R:27 L:27 S:23 W:22)
           - item: GRE V:146 Q:170 A:3.5
-
-
-
-
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
