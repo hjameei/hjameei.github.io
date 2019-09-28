@@ -212,6 +212,27 @@ honors:
         time: Sept. 2005
         company: NODET, Tehran, Iran
 
+certificates:
+    title: Certificates
+
+    cerlist:
+      - role: Participated in the Workshop on Brain Signals Processing and its Applications in Compu- tational Neuroscience
+        time: Feb. 2018
+        company: National Brain Mapping Laboratory
+
+      - role: Participated in One Day MRI Skills Workshop, Theory and Practice
+        time: Nov. 2017
+        company: National Brain Mapping Laboratory
+
+      - role: Participated in 1st Iranian Symposium on Brain Mapping Updates
+        time: Sept. 2017
+        company: National Brain Mapping Laboratory
+
+      - role: Completion of Ericssons ICT Professional Foundation Program
+        time: Nov. 2015
+        company: Ericsson Middle East University Program
+
+
 publications:
     title: Publications
     intro: |
