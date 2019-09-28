@@ -22,6 +22,16 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    rinterests:
+      - item: Swimming
+        link:
+
+      - item: Reading novels
+        link:
+
+      - item: TV series
+        link:
+
     languages:
       - idiom: Persian
         level: Native
@@ -39,6 +49,7 @@ sidebar:
       - item: TV series
         link:
 
+
 career-profile:
     title: Career Profile
     summary: |
@@ -49,19 +60,19 @@ education:
       university: University of Tehran, Tehran, Iran
       time: Sept. 2016 - July 2019
       details: |
-          - GPA: 19.0/20 (4/4)
+          GPA: 19.0/20 (4/4)
 
     - degree: BSc in Computer Engineering, Software Field
       university: University of Tehran, Tehran, Iran
       time: Sept. 2012 - Sept. 2016
       details: |
-          - GPA: 17.95/20 (3.82/4)
+          GPA: 17.95/20 (3.82/4)
 
     - degree: High School Diploma in Mathematics and Physics
       university: Farzanegan 1 High School (NODET), Tehran, Iran
       time: Sept. 2008 - June 2012
       details: |
-          - GPA: 19.37/20
+          GPA: 19.37/20
 
 experiences:
     - role: Research Engineer
