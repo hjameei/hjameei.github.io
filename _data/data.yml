@@ -184,7 +184,7 @@ honors:
     title: Honors and Awards
 
     honorlist:
-      - role: Ranked 1st among students entered in 2016, Artificial Intelligence field
+      - role: Ranked 1^st among students entered in 2016, Artificial Intelligence field
         time: Sept. 2018
         company: School of ECE, University of Tehran, Tehran, Iran
 
@@ -196,7 +196,7 @@ honors:
         time: Aug. 2016
         company: School of ECE, University of Tehran, Tehran, Iran
 
-      - role: Ranked 5th among students entered in 2012, Computer Engineering field
+      - role: Ranked 5^th among students entered in 2012, Computer Engineering field
         time: Sept. 2015
         company: School of ECE, University of Tehran, Tehran, Iran
 
