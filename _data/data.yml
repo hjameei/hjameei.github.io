@@ -165,9 +165,34 @@ honors:
     title: Honors and Awards
 
     honorlist:
-      - role: a
-        time: a
-        company: a
+      - role: Ranked 1st among students entered in 2016, Artificial Intelligence field
+        time: Sept. 2018
+        company: School of ECE, University of Tehran, Tehran, Iran
+
+      - role: [Cognitive Sciences and Technologies Council](https://cogc.ir/?lang=2) scholarship
+        time: Mar. 2018
+        company: Tehran, Iran
+
+      - role: MSc. offer of admission as exceptionally talent student from the ECE Department chair
+        time: Aug. 2016
+        company: School of ECE, University of Tehran, Tehran, Iran
+
+      - role: Ranked 5th among students entered in 2012, Computer Engineering field
+        time: Sept. 2015
+        company: School of ECE, University of Tehran, Tehran, Iran
+
+      - role: Won F.O.E. (Faculty of Engineering) Award, ranked 2nd among students of Software Engineer- ing, awarded by Department of Electrical and Computer Engineering
+        time: Jan. 2015
+        company: School of ECE, University of Tehran, Tehran, Iran
+
+      - role: Ranked 361 in Iranian Nationwide University Entrance Exam (among 220,000 students)
+        time: Aug. 2012
+        company: Iranian University Entrance Exam
+
+      - role: Accepted in National Organization for Development of Exceptional Talents school (NODET), with an acceptance rate of less than 1%
+        time: Sept. 2005
+        company: NODET, Tehran, Iran
+
 
 
 
