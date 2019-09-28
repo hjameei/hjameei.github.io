@@ -77,18 +77,21 @@ experiences:
         danaXa is a  Computer Vision company that provides the 
         state-of-the-art action recognition and object detection solutions.
 
-          - Bullet point
-          - Bullet point
+    - role: Research Assistant
+      time: Sept. 2017 - July 2019
+      company: School of ECE, University of Tehran
+      details: |
+        Modeling risk preference contagion while judging other’s decision
+          - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
 
     - role: Research Intern
-      time: 2014 - 2015
+      time: July 2018 - Sept. 2018
       company: RIKEN Center for Advanced Intelligence Project, Kyoto, Japan
       details: |
         I was in the Computational Brain Dynamics team, working on 
         correcting scanner difference of functional MRI data using deep learning.
 
-          - Under supervision of [Dr. Yamashita](http://www.riken.jp/en/research/labs/aip/goalorient_tech/comput_brain_dyn/)
-          - Bullet point
+          - Under supervision of [Dr. Okito Yamashita](http://www.riken.jp/en/research/labs/aip/goalorient_tech/comput_brain_dyn/)
 
     - role: UI Developer
       time: 2012 - 2014
