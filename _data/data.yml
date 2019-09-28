@@ -115,11 +115,31 @@ projects:
 
       - title: Data Analytics
         link: 
-        tagline: Classification of CIFAR-100 dataset by a self-implemented neural network, developed in Python using Tensorflow
+        tagline: Classification of CIFAR-100 dataset by a self-implemented Convolutional Neural Network, developed in Python using Tensorflow
 
       - title: Advanced Robotics
         link: 
-        tagline: Localization of E-puck mobile robot by particle filter algorithm, developed in C++ using Visual Studio and Webots
+        tagline: Localization of E-puck mobile robot by Particle Filter algorithm, developed in C++ using Visual Studio and Webots
+
+      - title: Machine Learning
+        link:
+        tagline: Implementation of an RL-learning Snake in high dimensional space, developed in Python
+
+      - title: Pattern Recognition
+        link:
+        tagline: 
+
+      - title: Social Networks
+        link:
+        tagline: Keyboard orientation design using the community detection algorithm, developed in Python
+
+      - title: Social Networks
+        link:
+        tagline: Analysis of Telegram Messenger relations as a graph to estimate its mode and diffusion process, developed in Python
+
+      - title: Social Networks
+        link:
+        tagline: Simulation of random graphs generation process for different models (Erdos-Renyi, Watts- Strogatz, and scale-free) and study their degree distribution and other properties, developed in Java
 
 publications:
     title: Publications
