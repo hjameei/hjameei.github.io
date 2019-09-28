@@ -258,7 +258,7 @@ publications:
 courses:
     title: Course work
 
-    toolset:
+    courseset:
       - category: Graduate
         items:
           - item: Machine Learning
