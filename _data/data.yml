@@ -141,6 +141,14 @@ projects:
         link:
         tagline: Simulation of random graphs generation process for different models (Erdos-Renyi, Watts- Strogatz, and scale-free) and study their degree distribution and other properties, developed in Java
 
+      - title: System Analysis and Design
+        link:
+        tagline: Design and implementation of an MVC architecture based clinic management system, developed in WPF (C#)
+
+      - title: Internet Engineering
+        link:
+        tagline: Design and implementation of an IoT project, a routing system based on air pollution (android application and website), developed in developed in RoR and Android Application
+
 publications:
     title: Publications
     intro: |
