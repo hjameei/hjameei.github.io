@@ -101,17 +101,17 @@ projects:
     intro:
 
     assignments:
-      - title: Bayesian analysis of face morphing psychophysics experiment data
+      - title: An Introduction to Cognitive Neuroscience
         link: 
-        tagline: developed in MATLAB using WINBUGS, An Introduction to Cognitive Neuroscience
+        tagline: Bayesian analysis of face morphing psychophysics experiment data, developed in MATLAB using WINBUGS
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: An Introduction to Cognitive Neuroscience
+        link: 
+        tagline: Modeling a single neuron behavior under different currents, developed in MATLAB
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Bio-inspired Engineering
+        link: 
+        tagline: Solving the vehicle routing problem using Ant Colony Optimization algorithm
 
       - title: Atom
         link: "#"
