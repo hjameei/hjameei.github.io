@@ -46,25 +46,19 @@ career-profile:
 
 education:
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
-      university: University of Tehran
+      university: University of Tehran, Tehran, Iran
       time: Sept. 2016 - July 2019
       details: |
           - GPA: 19.0/20 (4/4)
-          - Supervisor: [Dr. Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
 
     - degree: BSc in Computer Engineering, Software Field
-      university: University of Tehran
+      university: University of Tehran, Tehran, Iran
       time: Sept. 2012 - Sept. 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
           - GPA: 17.95/20 (3.82/4)
 
     - degree: High School Diploma in Mathematics and Physics
-      university: Farzanegan 1 High School (NODET)
+      university: Farzanegan 1 High School (NODET), Tehran, Iran
       time: Sept. 2008 - June 2012
       details: |
           - GPA: 19.37/20
@@ -99,7 +93,7 @@ experiences:
       details: |
         Examination of the use of maximizing the spread of influence through a social network in automatic text summarization
 
-          - Under supervision of [Dr. Faili](https://ece.ut.ac.ir/en/~hfaili)
+          - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
           
 
 projects:
