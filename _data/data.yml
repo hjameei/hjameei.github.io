@@ -15,7 +15,7 @@ sidebar:
     email: hadisjameei@gmail.com
     phone: +98 912 072 0942
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: hadis-jameei-87164a8a
     github: hjameei
     gitlab: #hadisjme
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -42,13 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      My summary
 
 education:
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
