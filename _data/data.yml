@@ -149,6 +149,18 @@ projects:
         link:
         tagline: Design and implementation of an IoT project, a routing system based on air pollution (android application and website), developed in developed in RoR and Android Application
 
+      - title: Artificial Intelligence
+        link:
+        tagline: Implementation of Minimax algorithm with alpha-beta pruning for for-in-a-row game, defveloped in Python
+
+      - title: Data Structures and Algorithm
+        link:
+        tagline: Design and implementation of database system based on B+ trees and treap (as cache), detecting seeds in a social network, and related queries
+
+      - title: Advanced Programming
+        link:
+        tagline: Design and implementation of multi-threaded & multi-user object-oriented project manager system similar to [Trello](https://trello.com), developed in C++
+
 publications:
     title: Publications
     intro: |
