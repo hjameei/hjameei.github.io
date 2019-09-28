@@ -260,23 +260,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - category: Programming languages
+        items:
+          - item: Expert in C/C++, Java, R
+          - item: Expert in Python (PyTorch, Tensorflow, scikit-learn, NetworkX, Pygame)
+          - item: Expert in MATLAB (Psychtoolbox library)
+          - item: Proficient in Java EE Enterprise Application
+          - item: Proficient in Android Application
+          - item: Familiar with Ruby on Rails (a framework for web development)
+          - item: Familiar with Windows Form Applications and WPF (C#)
+          - item: Familiar with Web Design (HTML, CSS, JavaScript, jQuery)
 
-      - name: Javascript & jQuery
-        level: 98%
+      - category: Operating Systems
+        items:
+          - item: Windows, Unix/Linux, OSX
 
-      - name: Angular
-        level: 98%
+      - category: Database Systems
+        items:
+          - item: Proficient in Oracle SQL Developer
+          - item: Proficient in PostgreSQL
 
-      - name: HTML5 & CSS
-        level: 95%
+      - category: Software
+        items:
+          - item: Proficient in Git
+          - item: Familiar with LATEX
 
-      - name: Ruby on Rails
-        level: 85%
+      - category: Languages
+        items:
+          - item: TOEFL 99 (R:27 L:27 S:23 W:22)
+          - item: GRE V:146 Q:170 A:3.5
 
-      - name: Sketch & Photoshop
-        level: 60%
+
+
+
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
