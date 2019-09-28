@@ -79,7 +79,7 @@ experiences:
 
     - role: Research Assistant
       time: Sept. 2017 - July 2019
-      company: School of ECE, University of Tehran
+      company: School of ECE, University of Tehran, Tehran, Iran
       details: |
         Modeling risk preference contagion while judging other’s decision
           - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
@@ -93,18 +93,14 @@ experiences:
 
           - Under supervision of [Dr. Okito Yamashita](http://www.riken.jp/en/research/labs/aip/goalorient_tech/comput_brain_dyn/)
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Intern
+      time: June 2015 - Sept. 2015
+      company: School of ECE, University of Tehran, Tehran, Iran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Examination of the use of maximizing the spread of influence through a social network in automatic text summarization
 
-          - Bullet point
-          - Bullet point
+          - Under supervision of [Dr. Faili](https://ece.ut.ac.ir/en/~hfaili)
+          
 
 projects:
     title: Projects
