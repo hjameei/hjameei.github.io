@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Hadis Jameei
     tagline: Research Engineer at danaXa
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hadisjameei@gmail.com
