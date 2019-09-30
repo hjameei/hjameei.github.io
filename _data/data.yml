@@ -24,23 +24,6 @@ sidebar:
     skype: hadis1994
 
     rinterests:
-      - item: Swimming
-        link:
-
-      - item: Reading novels
-        link:
-
-      - item: TV series
-        link:
-
-    languages:
-      - idiom: Persian
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-    interests:
       - item: Data Science
         link:
 
@@ -52,6 +35,25 @@ sidebar:
 
       - item: Computational Social Science
         link:
+
+    languages:
+      - idiom: Persian
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Swimming
+        link:
+
+      - item: Reading novels
+        link:
+
+      - item: TV series
+        link:
+
+
 
 
 career-profile:
