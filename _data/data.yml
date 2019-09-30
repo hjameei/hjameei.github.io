@@ -149,7 +149,15 @@ projects:
 
       - title: Pattern Recognition
         link:
-        tagline: 
+        tagline: Implementation of Bayesian, Linear, SVM, RBF and MLP classifiers, developed in MATLAB
+
+      - title: Pattern Recognition
+        link:
+        tagline: Implementation of Feature Conditioning Algorithms such as Feature Selection, PCA, and LDA, developed in MATLAB
+
+      - title: Pattern Recognition
+        link:
+        tagline: Implementation of Novelty and Outlier Detection Algorithm, developed in MATLAB
 
       - title: Social Networks
         link:
