@@ -200,6 +200,14 @@ honors:
     title: Honors and Awards
 
     honorlist:
+      - role: Being granted Graduate Research Scholarship, Jan-June 2021 commencement
+        time: Dec. 2020
+        company: University of Melbourne, Melbourne, Australia
+
+      - role: Offered a Ph.D. student position at the University of Melbourne, Jan-June 2021 commencement
+        time: Dec. 2020
+        company: Melbourne Neuropsychiatry Center, University of Melbourne, Melbourne, Australia
+
       - role: Ranked 1st among students entered in 2016, Artificial Intelligence field
         time: Sept. 2018
         company: School of ECE, University of Tehran, Tehran, Iran
@@ -250,10 +258,6 @@ certificates:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
       - title: Preference modulation by evaluating and predicting others’ decisions in risk and temporal discounting
