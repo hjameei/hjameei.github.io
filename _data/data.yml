@@ -80,19 +80,20 @@ education:
           GPA: 19.37/20
 
 experiences:
+    - role: Research Assistant
+      time: Sept. 2017 - present
+      company: Machine Learning and Computational Modeling Laboratory, University of Tehran, Tehran, Iran
+      details: |
+        Modeling risk preference contagion while judging other’s decision
+        Investigating the neural basis underlying the shift in preference while judging other’s decision
+          - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi) and [AbdolHossein Vahabie](https://ece.ut.ac.ir/en/~h.vahabie)
+
     - role: Research Engineer
-      time: July 2019 - Present
+      time: July 2019 - Nov. 2019
       company: danaXa, City, Australian Capital Territory, Australia
       details: |
         danaXa is a  Computer Vision company that provides the 
         state-of-the-art action recognition and object detection solutions. I worked as a research engineer at danaXa remotely, providing state of the art software services in compute vision related businesses.
-
-    - role: Research Assistant
-      time: Sept. 2017 - July 2019
-      company: Machine Learning and Computational Modeling Laboratory, University of Tehran, Tehran, Iran
-      details: |
-        Modeling risk preference contagion while judging other’s decision
-          - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi)
 
     - role: Research Intern
       time: July 2018 - Sept. 2018
