@@ -59,6 +59,7 @@ career-profile:
       My name is Hadis Jameei. I completed MSc. in Artificial Intelligence at Univeristy of Tehran,
        and have a background of Computer Engineering. I have experience in analyzing different types of data,
        and my main interest is Data Science.
+[expand]
 education:
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
       university: University of Tehran, Tehran, Iran
@@ -75,6 +76,7 @@ education:
       time: Sept. 2008 - June 2012
       details: |
           GPA: 19.37/20
+[/expand]
 experiences:
     - role: Research Assistant
       time: Sept. 2017 - present
