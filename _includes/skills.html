@@ -2,30 +2,34 @@
 {% if skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ skills.title }}
-  </h2>
+  <details>
+    <summary>
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ skills.title }}
+    </h2>
+    </summary>
 
-  <div class="skillset">
+    <div class="skillset">
 
-    {% for skillset in skills.toolset %}
-    <div class="item">
+      {% for skillset in skills.toolset %}
+      <div class="item">
 
-      <h3 class="level-title">{{ skillset.category }}</h3>
-      <br>
+        <h3 class="level-title">{{ skillset.category }}</h3>
+        <br>
 
-      {% for item in skillset.items %}
-      <div class="details"> {{ item.item }} </div>
+        {% for item in skillset.items %}
+        <div class="details"> {{ item.item }} </div>
+        {% endfor %}
+
+      </div><!--//item-->
       {% endfor %}
 
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
+    </div>
+  </details>
 
 </section><!--//skills-section-->
 {% endif %}
