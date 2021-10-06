@@ -60,7 +60,6 @@ career-profile:
        and have a background of Computer Engineering. I have experience in analyzing different types of data,
        and my main interest is Data Science.
 education:
-    [expand]
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
       university: University of Tehran, Tehran, Iran
       time: Sept. 2016 - July 2019
@@ -76,7 +75,6 @@ education:
       time: Sept. 2008 - June 2012
       details: |
           GPA: 19.37/20
-    [/expand]
 experiences:
     - role: Research Assistant
       time: Sept. 2017 - present
