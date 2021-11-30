@@ -52,6 +52,11 @@ career-profile:
       I have a vast experience in Python and R, 
       and I am broadening my knowledge in applications of bioinformatics in neuroscience.
 education:
+    - degree: PhD in Neuroscience/Neuropsychiatry
+      university: University of Mebourne
+      time: Nov. 2021 - present
+      details: |
+          Mebourne Neuropsychiatry Centre
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
       university: University of Tehran, Tehran, Iran
       time: Sept. 2016 - July 2019
@@ -69,7 +74,7 @@ education:
           GPA: 19.37/20
 experiences:
     - role: Research Assistant
-      time: Sept. 2017 - present
+      time: Sept. 2017 - Oct. 2021
       company: Machine Learning and Computational Modeling Laboratory, University of Tehran, Tehran, Iran
       details: |
         My main task as thesis was to modeling risk preference contagion while judging other’s decision. Currently I am investigating the neural basis underlying the shift in preference while judging other’s decision
@@ -178,13 +183,9 @@ honors:
     title: Honors and Awards
 
     honorlist:
-      - role: Being granted Graduate Research Scholarship, Jan-June 2021 commencement
-        time: Dec. 2020
+      - role: Granted Graduate Research Scholarship
+        time: July 2020
         company: University of Melbourne, Melbourne, Australia
-
-      - role: Being offered a Ph.D. student position at the University of Melbourne, Jan-June 2021 commencement
-        time: Dec. 2020
-        company: Melbourne Neuropsychiatry Center, University of Melbourne, Melbourne, Australia
 
       - role: Ranked 1st among students entered in 2016, Artificial Intelligence field
         time: Sept. 2018
