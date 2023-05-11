@@ -233,9 +233,15 @@ certificates:
         company: Ericsson Middle East University Program
 
 publications:
-    title: Publications
+    title: Conferences
 
     papers:
+      - title: MRI-derived phenotypes and polygenic risk for schizophrenia (a systematic review)
+        authors: Hadis Jameei
+        conference: 2022 Department of Psychiatry Research Symposium (2022)
+      - title: MRI-derived phenotypes and polygenic risk for schizophrenia (a systematic review)
+        authors: Hadis Jameei
+        conference: Organization of Human Brain Mapping (2022)
       - title: Preference modulation by evaluating and predicting others’ decisions in risk and temporal discounting
         authors: Hadis Jameei
         conference: Basic and Clinical Neuroscience Congress, Tehran, Iran, 9th (2020)
