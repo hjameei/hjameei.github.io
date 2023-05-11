@@ -240,6 +240,19 @@ publications:
         authors: Hadis Jameei
         conference: Basic and Clinical Neuroscience Congress, Tehran, Iran, 9th (2020)
 
+volunteers:
+    title: Volunteer work
+
+    - role: President of Students of Neuropsychiatry Research (SONR) student group
+      time: Jan. 2023 - Dec. 2023
+      company: University of Melbourne, Melbourne, VIC, Australia
+      details: This group aims to enhance the academic and professional life of SONR Postgraduate Students, and encourage social interaction of students within the Melbourne Neuropsychiatry Centre and the Department of Psychiatry.
+
+    - role: Committee member of University of Melbourne Iranian Society (UMIS) student group
+      time: April 2023 - Sept. 2023
+      company: University of Melbourne, Melbourne, VIC, Australia
+      details: This student group aims to create an environment for Iranian students, staff and alumni to socialise with each other, celebrate Iranian culture by running traditional events, conduct social activities such as movie nights, book club and sports events, create a supportive environment for Iranian students in their academic life, and promote Iranian culture and tradition to non-Iranian students.
+
 
 courses:
     title: Course work
@@ -264,16 +277,6 @@ courses:
           - item: Human-Computer Interaction 
           - item: Data Structures 
 
-volunteers:
-    - role: President of Students of Neuropsychiatry Research (SONR) student group
-      time: Jan. 2023 - Dec. 2023
-      company: University of Melbourne, Melbourne, VIC, Australia
-      details: This group aims to enhance the academic and professional life of SONR Postgraduate Students, and encourage social interaction of students within the Melbourne Neuropsychiatry Centre and the Department of Psychiatry.
-
-    - role: Committee member of University of Melbourne Iranian Society (UMIS) student group
-      time: April 2023 - Sept. 2023
-      company: University of Melbourne, Melbourne, VIC, Australia
-      details: This student group aims to create an environment for Iranian students, staff and alumni to socialise with each other, celebrate Iranian culture by running traditional events, conduct social activities such as movie nights, book club and sports events, create a supportive environment for Iranian students in their academic life, and promote Iranian culture and tradition to non-Iranian students.
 
 skills:
     title: Skills &amp; Proficiency
