@@ -38,12 +38,12 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      AAAAAAAAAAAA My name is Hadis Jameei. I completed MSc. in Artificial Intelligence at Univeristy of Tehran, 
+      My name is Hadis Jameei. I completed MSc. in Artificial Intelligence at Univeristy of Tehran, 
       and have a background of Computer Engineering. 
       I  am highly interested in applications of artificial intelligence, 
       machine learning, statistical data analysis in neuroscience. 
       I have a vast experience in Python and R, 
-      and I am broadening my knowledge in applications of bioinformatics in neuroscience.
+      and I am broadening my knowledge in applications of bioinformatics in neuroscience. some other blabber
 education:
     - degree: PhD in Neuroscience/ Neuropsychiatry
       university: University of Melbourne, Melbourne, Australia
