@@ -183,6 +183,18 @@ projects:
       - title: Operating Systems
         link:
         tagline: Design and implementation of a client-server multi-thread stocks system, devleoped in C
+      
+      - title: Computer Architecture Lab
+        link:
+        tagline: Pipeline implementation of a MIPS-like processor on DE2 board, defveloped in Quartus II (Verilog)
+
+      - title: Computer Architecture
+        link:
+        tagline: Implementation of single cycle, multi-cycle and pipelined MIPS-like processor, developed in Modelim (Verilog)
+
+      - title: Computer Architecture
+        link:
+        tagline: Design and implementation of Booth multiplier and non-restoring cellular array divider, developed in ModelSim (Verilog)
 
       - title: Artificial Intelligence
         link:
@@ -198,7 +210,7 @@ projects:
 
       - title: Advanced Programming
         link:
-        tagline: Implementation of a graphical game (Boxhead: The Zombie Wars), developed in C++ using the SDL library
+        tagline: Implementation of a graphical game "(Boxhead: The Zombie Wars)", developed in C++ using the SDL library
       
       - title: Introduction to Computing Systems and Programming
         link:
