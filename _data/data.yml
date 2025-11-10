@@ -285,36 +285,36 @@ courses:
           - item: Data Structures 
 
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - category: Programming languages
-        items:
-          - item: Expert in C/C++, Java, R
-          - item: Expert in Python (PyTorch, Tensorflow, scikit-learn, NetworkX, Pygame)
-          - item: Expert in MATLAB (Psychtoolbox library)
-          - item: Proficient in Java EE Enterprise Application
-          - item: Proficient in Android Application
-          - item: Familiar with Ruby on Rails (a framework for web development)
-          - item: Familiar with Windows Form Applications and WPF (C#)
-          - item: Familiar with Web Design (HTML, CSS, JavaScript, jQuery)
+#     toolset:
+#       - category: Programming languages
+#         items:
+#           - item: Expert in C/C++, Java, R
+#           - item: Expert in Python (PyTorch, Tensorflow, scikit-learn, NetworkX, Pygame)
+#           - item: Expert in MATLAB (Psychtoolbox library)
+#           - item: Proficient in Java EE Enterprise Application
+#           - item: Proficient in Android Application
+#           - item: Familiar with Ruby on Rails (a framework for web development)
+#           - item: Familiar with Windows Form Applications and WPF (C#)
+#           - item: Familiar with Web Design (HTML, CSS, JavaScript, jQuery)
 
-      - category: Operating Systems
-        items:
-          - item: Windows, Unix/Linux, OSX
+#       - category: Operating Systems
+#         items:
+#           - item: Windows, Unix/Linux, OSX
 
-      - category: Database Systems
-        items:
-          - item: Proficient in Oracle SQL Developer
-          - item: Proficient in PostgreSQL
+#       - category: Database Systems
+#         items:
+#           - item: Proficient in Oracle SQL Developer
+#           - item: Proficient in PostgreSQL
 
-      - category: Software
-        items:
-          - item: Proficient in Git
-          - item: Familiar with LATEX
+#       - category: Software
+#         items:
+#           - item: Proficient in Git
+#           - item: Familiar with LATEX
 
-      - category: Languages
-        items:
-          - item: TOEFL 104 (R:27 L:21 S:25 W:29)
-          - item: GRE V:146 Q:170 A:3.5
+#       - category: Languages
+#         items:
+#           - item: TOEFL 104 (R:27 L:21 S:25 W:29)
+#           - item: GRE V:146 Q:170 A:3.5
