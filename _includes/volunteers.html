@@ -13,19 +13,14 @@
     </summary>
 
 
-
-    {% for volunteer in volunteers %}
+    {% for volunteer in volunteers.experiences %}
     <div class="item">
-
       <div class="meta">
-
         <div class="upper-row">
           <h3 class="job-title">{{ volunteer.role }}</h3>
           <div class="time">{{ volunteer.time }}</div>
         </div><!--//upper-row-->
-
         <div class="company">{{ volunteer.company }}</div>
-
       </div><!--//meta-->
 
       {% if volunteer.details %}
