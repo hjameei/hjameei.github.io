@@ -110,7 +110,7 @@ projects:
 
       - title: An Introduction to Cognitive Neuroscience
         link: 
-        tagline: Modeling a single neuron behavior under different currents, developed in MATLAB
+        tagline: Implementation of Hudgin-Huxly equation for modeling a single neuron behavior under different currents using 4[th] order Runge-Kutta method, developed in MATLAB
 
       - title: Bio-inspired Engineering
         link: 
@@ -118,15 +118,15 @@ projects:
 
       - title: Data Analytics
         link: 
-        tagline: Classification of CIFAR-100 dataset by a self-implemented Convolutional Neural Network, developed in Python using Tensorflow
+        tagline: Implementation of a convolutional neural network for classifying CIFAR-100 images with an accuracy of 60%,, developed in Python using Tensorflow
 
       - title: Advanced Robotics
         link: 
-        tagline: Localization of E-puck mobile robot by Particle Filter algorithm, developed in C++ using Visual Studio and Webots
+        tagline: Implementation of particle filter algorithm for localization of E-puck mobile robot, developed in C++ using Visual Studio and Webots
 
       - title: Machine Learning
         link:
-        tagline: Implementation of an RL-learning Snake in high dimensional space, developed in Python
+        tagline: Implementation of SARSA and Q-Learning algorithms for an RL-learning Snake in high dimensional space, developed in Python
 
       - title: Pattern Recognition
         link:
@@ -151,6 +151,18 @@ projects:
       - title: Social Networks
         link:
         tagline: Simulation of random graphs generation process for different models (Erdos-Renyi, Watts- Strogatz, and scale-free) and study their degree distribution and other properties, developed in Java
+      
+      - title: Final Graduation Project
+        link:
+        tagline: Implementation of Scheduling Application in a Docker-based cluster
+      
+      - title: Software Engineering Lab
+        link:
+        tagline: Implementation of a complete website similar to [QuizUp](https://www.quizup.com), practicing scrum-agile, developed in Ruby on Rails
+
+      - title: Software Engineering
+        link:
+        tagline: mplementation of a core banking project, handling synchronized transactions, developed in Java using Maven plugin
 
       - title: System Analysis and Design
         link:
@@ -159,6 +171,18 @@ projects:
       - title: Internet Engineering
         link:
         tagline: Design and implementation of an IoT project, a routing system based on air pollution (android application and website), developed in developed in RoR and Android Application
+
+      - title: Compiler Design and Construction
+        link:
+        tagline: Design and implementation of a compiler for COOL programming language, developed in Java using ANTLR4
+
+      - title: Operating Systems Lab
+        link:
+        tagline: Implementation of system call, synchronization, scheduling and memory management in Linux kernel programming, developed in C
+
+      - title: Operating Systems
+        link:
+        tagline: Design and implementation of a client-server multi-thread stocks system, devleoped in C
 
       - title: Artificial Intelligence
         link:
@@ -171,6 +195,14 @@ projects:
       - title: Advanced Programming
         link:
         tagline: Design and implementation of multi-threaded & multi-user object-oriented project manager system similar to [Trello](https://trello.com), developed in C++
+
+      - title: Advanced Programming
+        link:
+        tagline: Implementation of a graphical game (Boxhead: The Zombie Wars), developed in C++ using the SDL library
+      
+      - title: Introduction to Computing Systems and Programming
+        link:
+        tagline: Implementation of a graphical game (The Super Mario), developed in C
 
 honors:
     title: Honors and Awards
