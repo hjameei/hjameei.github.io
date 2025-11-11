@@ -15,13 +15,22 @@
     {% for volunteer in volunteers.experiences %}
     <div class="item">
       <div class="meta">
+
+        <!-- <div class="upper-row">
+          <h3 class="job-title">{{ volunteer.role }}</h3>
+          <div class="time">{{ volunteer.time }}</div>
+        </div>
+        <div class="company">{{ volunteer.company }}</div> -->
+
         <div class="upper-row">
           <h3 class="job-title">{{ volunteer.role }}</h3>
         </div><!--//upper-row-->
+
         <div class="company">
           {{ volunteer.company }}
-          <div class="time">{{ volunteer.time }}</div>
+          <span class="time-volunteer">{{ volunteer.time }}</span>
         </div>
+        
       </div><!--//meta-->
 
       {% if volunteer.details %}
