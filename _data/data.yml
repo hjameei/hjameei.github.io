@@ -280,6 +280,15 @@ conferences:
     title: Conferences
 
     papers:
+      - title: Decomposing cortical thickness heterogeneity by evaluating genetic risk profiles of psychiatric and medical disorders
+        authors: Hadis Jameei
+        conference: Organization of Human Brain Mapping (2024)
+      - title: Decomposing cortical thickness heterogeneity by evaluating genetic risk profiles of psychiatric and medical disorders
+        authors: Hadis Jameei
+        conference: AusUKB, 1[st] Australian UK Biobank Research Symposium (2024)
+      - title: Understanding brain volume heterogeneity through polygenic risk profiling of psychiatric disorders and commonly comorbid medical conditions
+        authors: Hadis Jameei
+        conference: Biological Psychiatry Australia (2023)
       - title: MRI-derived phenotypes and polygenic risk for schizophrenia (a systematic review)
         authors: Hadis Jameei
         conference: 2022 Department of Psychiatry Research Symposium (2022)
@@ -288,7 +297,7 @@ conferences:
         conference: Organization of Human Brain Mapping (2022)
       - title: Preference modulation by evaluating and predicting others’ decisions in risk and temporal discounting
         authors: Hadis Jameei
-        conference: Basic and Clinical Neuroscience Congress, Tehran, Iran, 9th (2020)
+        conference: 9[th] Basic and Clinical Neuroscience Congress, Tehran, Iran (2020)
           
 volunteers:
     title: Volunteer work
