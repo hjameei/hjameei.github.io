@@ -20,7 +20,7 @@
 
         {% if cer.role %}
         <div class="upper-row">
-          <h3 class="job-title">{{ cer.role }}</div>
+          <div class="details">{{ cer.role | markdownify }}</div>
         </div><!--//upper-row-->
         {% endif %}
 
@@ -30,6 +30,8 @@
         </div>
 
       </div><!--//meta-->
+
+
     </div><!--//item-->
     {% endfor %}
   </details>
