@@ -46,22 +46,22 @@ career-profile:
       and I am broadening my knowledge in applications of bioinformatics in neuroscience. some other blabber
 education:
     - degree: PhD in Neuroscience/ Neuropsychiatry
-      university: University of Melbourne, Melbourne, Australia
+      university: University of Melbourne
       time: Nov. 2021 - present
       details: |
           Mebourne Neuropsychiatry Centre
     - degree: MSc in Computer Engineering, Artificial Intelligence Field
-      university: University of Tehran, Tehran, Iran
+      university: University of Tehran
       time: Sept. 2016 - July 2019
       details: |
           GPA: 19.0/20 (4/4)
     - degree: BSc in Computer Engineering, Software Field
-      university: University of Tehran, Tehran, Iran
+      university: University of Tehran
       time: Sept. 2012 - Sept. 2016
       details: |
           GPA: 17.95/20 (3.82/4)
     - degree: High School Diploma in Mathematics and Physics
-      university: Farzanegan 1 High School (NODET), Tehran, Iran
+      university: Farzanegan 1 High School (NODET)
       time: Sept. 2008 - June 2012
       details: |
           GPA: 19.37/20
@@ -69,7 +69,7 @@ education:
 experiences:
     - role: Research Assistant
       time: Sept. 2017 - Oct. 2021
-      company: Machine Learning and Computational Modeling Laboratory, University of Tehran, Tehran, Iran
+      company: Machine Learning and Computational Modeling Laboratory, University of Tehran
       details: |
         My main task as thesis was to modeling risk preference contagion while judging other’s decision. Currently I am investigating the neural basis underlying the shift in preference while judging other’s decision
           - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi) and [AbdolHossein Vahabie](https://ece.ut.ac.ir/en/~h.vahabie)
@@ -95,7 +95,7 @@ experiences:
         software development paradigm. I was in the facilities team, Core Banking Department.
     - role: Research Intern
       time: June 2015 - Sept. 2015
-      company: Natural Language Processing Laboratory, University of Tehran, Tehran, Iran
+      company: Natural Language Processing Laboratory, University of Tehran
       details: |
         Examination of the use of maximizing the spread of influence through a social network in automatic text summarization
           - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
@@ -114,7 +114,7 @@ projects:
 
       - title: Bio-inspired Engineering
         link: 
-        tagline: Solving the vehicle routing problem using Ant Colony Optimization algorithm, developed in Python
+        tagline: Solving the vehicle routing problem using ant colony optimization algorithm, developed in Python
 
       - title: Data Analytics
         link: 
@@ -130,15 +130,15 @@ projects:
 
       - title: Pattern Recognition
         link:
-        tagline: Implementation of Bayesian, Linear, SVM, RBF and MLP classifiers, developed in MATLAB
+        tagline: Implementation of Bayesian, linear, SVM, RBF and MLP classifiers, developed in MATLAB
 
       - title: Pattern Recognition
         link:
-        tagline: Implementation of Feature Conditioning Algorithms such as Feature Selection, PCA, and LDA, developed in MATLAB
+        tagline: Implementation of feature conditioning algorithms such as feature selection, PCA, and LDA, developed in MATLAB
 
       - title: Pattern Recognition
         link:
-        tagline: Implementation of Novelty and Outlier Detection Algorithm, developed in MATLAB
+        tagline: Implementation of novelty and outlier detection algorithm, developed in MATLAB
 
       - title: Social Networks
         link:
@@ -154,7 +154,7 @@ projects:
       
       - title: Final Graduation Project
         link:
-        tagline: Implementation of Scheduling Application in a Docker-based cluster
+        tagline: Implementation of a scheduling application in a Docker-based cluster
       
       - title: Software Engineering Lab
         link:
@@ -162,7 +162,7 @@ projects:
 
       - title: Software Engineering
         link:
-        tagline: mplementation of a core banking project, handling synchronized transactions, developed in Java using Maven plugin
+        tagline: Implementation of a core banking project, handling synchronized transactions, developed in Java using Maven plugin
 
       - title: System Analysis and Design
         link:
@@ -170,7 +170,7 @@ projects:
 
       - title: Internet Engineering
         link:
-        tagline: Design and implementation of an IoT project, a routing system based on air pollution (android application and website), developed in developed in RoR and Android Application
+        tagline: Design and implementation of an IoT project, a routing system based on air pollution (Android application and website), developed in developed in RoR and Android application
 
       - title: Compiler Design and Construction
         link:
@@ -198,7 +198,7 @@ projects:
 
       - title: Artificial Intelligence
         link:
-        tagline: Implementation of Minimax algorithm with alpha-beta pruning for for-in-a-row game, defveloped in Python
+        tagline: Implementation of minimax algorithm with alpha-beta pruning for for-in-a-row game, defveloped in Python
 
       - title: Data Structures and Algorithm
         link:
@@ -222,15 +222,15 @@ honors:
     honorlist:
       - role: Best Poster Graduate Research Student
         time: Dec. 2020
-        company: Department of Psychiatry Research Symposium, University of Melbourne, Melbourne, Australia
+        company: Department of Psychiatry Research Symposium, University of Melbourne
 
       - role: Granted Melbourne Research Scholarship
         time: July 2020
-        company: University of Melbourne, Melbourne, Australia
+        company: University of Melbourne
 
       - role: Ranked 1<sup>st</sup> among students entered in 2016, Artificial Intelligence field
         time: Sept. 2018
-        company: School of ECE, University of Tehran, Tehran, Iran
+        company: School of ECE, University of Tehran
 
       - role: Recieved reseach scholarship from [Cognitive Sciences and Technologies Council](https://cogc.ir/?lang=2)
         time: Mar. 2018
@@ -238,15 +238,15 @@ honors:
 
       - role: MSc. offer of admission as exceptionally talent student from the ECE Department chair
         time: Aug. 2016
-        company: School of ECE, University of Tehran, Tehran, Iran
+        company: School of ECE, University of Tehran
 
       - role: Ranked 5<sup>th</sup> among students entered in 2012, Computer Engineering field
         time: Sept. 2015
-        company: School of ECE, University of Tehran, Tehran, Iran
+        company: School of ECE, University of Tehran
 
       - role: Won F.O.E. (Faculty of Engineering) Award, ranked 2nd among students of Software Engineer- ing, awarded by Department of Electrical and Computer Engineering
         time: Jan. 2015
-        company: School of ECE, University of Tehran, Tehran, Iran
+        company: School of ECE, University of Tehran
 
       - role: Ranked 361 in Iranian Nationwide University Entrance Exam (among 220,000 students)
         time: Aug. 2012
@@ -254,7 +254,7 @@ honors:
 
       - role: Accepted in National Organization for Development of Exceptional Talents school (NODET), with an acceptance rate of less than 1%
         time: Sept. 2005
-        company: NODET, Tehran, Iran
+        company: NODET
 
 certificates:
     title: Certificates
@@ -297,7 +297,7 @@ conferences:
         conference: Organization of Human Brain Mapping (2022)
       - title: Preference modulation by evaluating and predicting others’ decisions in risk and temporal discounting
         authors: Hadis Jameei
-        conference: 9<sup>th</sup> Basic and Clinical Neuroscience Congress, Tehran, Iran (2020)
+        conference: 9<sup>th</sup> Basic and Clinical Neuroscience Congress (2020)
           
 volunteers:
     title: Volunteer work
@@ -305,7 +305,7 @@ volunteers:
     experiences:
       - role: President of Students of Neuropsychiatry Research (SONR)
         time: Jan. 2023 - Dec. 2023
-        company: University of Melbourne, Melbourne, VIC, Australia
+        company: University of Melbourne
         details: |
           SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students.
           - Coordinated academic and social events to enhance student engagement and professional development
@@ -313,7 +313,7 @@ volunteers:
 
       - role: Committee member of University of Melbourne Iranian Society (UMIS)
         time: April 2023 - Sept. 2023
-        company: University of Melbourne, Melbourne, VIC, Australia
+        company: University of Melbourne
         details: |
           UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community.
           - Provided organisational support for cultural, academic, and social initiatives.
