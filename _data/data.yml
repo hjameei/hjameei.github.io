@@ -294,15 +294,21 @@ volunteers:
     title: Volunteer work
 
     experiences:
-      - role: President of Students of Neuropsychiatry Research (SONR) student group
+      - role: President of Students of Neuropsychiatry Research (SONR)
         time: Jan. 2023 - Dec. 2023
         company: University of Melbourne, Melbourne, VIC, Australia
-        details: This group aims to enhance the academic and professional life of SONR Postgraduate Students, and encourage social interaction of students within the Melbourne Neuropsychiatry Centre and the Department of Psychiatry.
+        details: SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students.
+        tasklist:
+          -task: Coordinated academic and social events to enhance student engagement and professional development
+          -task: Liaised between students and department leadership through regular strategy meetings.
 
       - role: Committee member of University of Melbourne Iranian Society (UMIS) student group
         time: April 2023 - Sept. 2023
         company: University of Melbourne, Melbourne, VIC, Australia
-        details: This student group aims to create an environment for Iranian students, staff and alumni to socialise with each other, celebrate Iranian culture by running traditional events, conduct social activities such as movie nights, book club and sports events, create a supportive environment for Iranian students in their academic life, and promote Iranian culture and tradition to non-Iranian students.
+        details: A student group supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community.
+        tasklist:
+          -task: Provided organisational support for cultural, academic, and social initiatives.
+          -task: Contributed to event preparation and operational support for cultural and community events
 
 
 courses:

@@ -26,6 +26,14 @@
       {% if volunteer.details %}
       <div class="details">
         {{ volunteer.details | markdownify }}
+        
+        {% for task in volunteer.tasklist %}
+        <div class="details">
+          {{ task.task }}
+        </div>
+
+        {% endfor %}
+
       </div><!--//details-->
       {% endif %}
 
