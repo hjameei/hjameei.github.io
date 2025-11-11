@@ -183,7 +183,8 @@ p {
     .upper-row-certificate {
         position: relative;
         overflow: hidden;
-        margin-bottom: -10px;
+        margin-top: -4px; /* bring it up closer to .upper-row */
+        margin-bottom: 0;
     }
     .job-title, .degree {
         color: $text-color;
@@ -209,7 +210,7 @@ p {
         color: $text-grey;
     }
     .company-certificate {
-        margin-bottom: 12px;
+        margin-bottom: 0px;
         color: $text-grey;
     }
     .project-title {
