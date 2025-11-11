@@ -228,39 +228,39 @@ honors:
 
     honorlist:
       - role: Best poster graduate research student
-        time: Dec. 2022
+        time: 2022
         company: Department of Psychiatry Research Symposium, University of Melbourne
 
       - role: Granted Melbourne research scholarship
-        time: July 2020
+        time: 2020
         company: University of Melbourne
 
       - role: Ranked 1<sup>st</sup> among students of Artificial Intelligence entered in 2016
-        time: Sept. 2018
+        time: 2018
         company: School of ECE, University of Tehran
 
-      - role: Granted [reseach scholarship](https://cogc.ir/?lang=2)
-        time: Mar. 2018
-        company: Cognitive Sciences and Technologies Council
+      - role: Granted reseach scholarship
+        time: 2018
+        company: Cognitive Sciences and Technologies Council #[Cognitive Sciences and Technologies Council](https://cogc.ir/?lang=2)
 
       - role: MSc. offer of admission as exceptionally talented student
-        time: Aug. 2016
+        time: 2016
         company:  ECE Department chair, School of ECE, University of Tehran
 
       - role: Ranked 5<sup>th</sup> among students of Computer Engineering entered in 2012
-        time: Sept. 2015
+        time: 2015
         company: School of ECE, University of Tehran
 
       - role: Won F.O.E. (Faculty of Engineering) Award, ranked 2<sup>nd</sup> among students of Software Engineering
-        time: Jan. 2015
+        time: 2015
         company: School of ECE, University of Tehran
 
       - role: Ranked 361 in Iranian Nationwide University Entrance Exam (among 220,000 students)
-        time: Aug. 2012
+        time: 2012
         company: Iranian University Entrance Exam
 
       - role: Accepted in National Organization for Development of Exceptional Talents school (NODET), with an acceptance rate of less than 1%
-        time: Sept. 2005
+        time: 2005
         company: NODET
 
 certificates:
