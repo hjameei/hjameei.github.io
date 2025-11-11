@@ -194,7 +194,9 @@ p {
         color: $text-grey;
     }
     .time-volunteer {
-        margin-left: 20px; 
+        position: static;
+        margin-left: 10px;
+        float: right; 
         color: $text-grey;
     }
     .company, .university {
