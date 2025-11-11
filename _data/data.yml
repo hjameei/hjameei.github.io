@@ -110,7 +110,7 @@ projects:
 
       - title: An Introduction to Cognitive Neuroscience
         link: 
-        tagline: Implementation of Hudgin-Huxly equation for modeling a single neuron behavior under different currents using 4^th^ order Runge-Kutta method, developed in MATLAB
+        tagline: Implementation of Hudgin-Huxly equation for modeling a single neuron behavior under different currents using 4<sup>th</sup> order Runge-Kutta method, developed in MATLAB
 
       - title: Bio-inspired Engineering
         link: 
@@ -285,7 +285,7 @@ conferences:
         conference: Organization of Human Brain Mapping (2024)
       - title: Decomposing cortical thickness heterogeneity by evaluating genetic risk profiles of psychiatric and medical disorders
         authors: Hadis Jameei
-        conference: AusUKB, 1^st^ Australian UK Biobank Research Symposium (2024)
+        conference: AusUKB, 1<sup>st</sup> Australian UK Biobank Research Symposium (2024)
       - title: Understanding brain volume heterogeneity through polygenic risk profiling of psychiatric disorders and commonly comorbid medical conditions
         authors: Hadis Jameei
         conference: Biological Psychiatry Australia (2023)
