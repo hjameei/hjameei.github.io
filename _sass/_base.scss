@@ -186,6 +186,11 @@ p {
         margin-top: -4px; /* bring it up closer to .upper-row */
         margin-bottom: 0;
     }
+    .lower-row-certificate {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 2px;
+    }
     .job-title, .degree {
         color: $text-color;
         font-size: 16px;
