@@ -12,7 +12,6 @@
     </h2>
     </summary>
 
-
     {% for volunteer in volunteers.experiences %}
     <div class="item">
       <div class="meta">
@@ -26,14 +25,6 @@
       {% if volunteer.details %}
       <div class="details">
         {{ volunteer.details | markdownify }}
-        
-        {% for task in volunteer.tasklist %}
-        <div class="details">
-          {{ task.task }}
-        </div>
-
-        {% endfor %}
-
       </div><!--//details-->
       {% endif %}
 
