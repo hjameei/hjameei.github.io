@@ -13,20 +13,19 @@
     </h2>
     </summary>
 
-    
     {% for cer in certificates.cerlist %}
     <div class="item">
 
       <div class="meta">
 
         {% if cer.role %}
-        <div class="upper-row-certificate">
-          <div class="details">{{ cer.role | markdownify }}</div>
+        <div class="upper-row">
+          <h3 class="job-title">{{ cer.role }}</div>
         </div><!--//upper-row-->
         {% endif %}
 
         <div class="lower-row-certificate">
-          <div class="company-certificate">{{ cer.company }}</div>
+          <div class="company">{{ cer.company }}</div>
           <div class="time">{{ cer.time }}</div>
         </div>
 
