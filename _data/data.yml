@@ -43,28 +43,34 @@ career-profile:
       I  am highly interested in applications of artificial intelligence, 
       machine learning, statistical data analysis in neuroscience. 
       I have a vast experience in Python and R, 
-      and I am broadening my knowledge in applications of bioinformatics in neuroscience. some other blabber
+      and I am broadening my knowledge in applications of bioinformatics in neuroscience. 
 education:
-    - degree: PhD in Neuroscience/ Neuropsychiatry
+    - degree: PhD in Psychiatry
       university: University of Melbourne
-      time: Nov. 2021 - present
+      time: 2021 - present
       details: |
           Mebourne Neuropsychiatry Centre
-    - degree: MSc in Computer Engineering, Artificial Intelligence Field
+    - degree: MSc in Artificial Intelligence
       university: University of Tehran
-      time: Sept. 2016 - July 2019
+      time: 2016 - 2019
       details: |
           GPA: 19.0/20 (4/4)
-    - degree: BSc in Computer Engineering, Software Field
+    - degree: BSc in Computer Engineering
       university: University of Tehran
-      time: Sept. 2012 - Sept. 2016
+      time: 2012 - 2016
       details: |
           GPA: 17.95/20 (3.82/4)
     - degree: High School Diploma in Mathematics and Physics
-      university: Farzanegan 1 High School (NODET)
-      time: Sept. 2008 - June 2012
+      university: Farzanegan 1 (NODET)
+      time: 2008 - 2012
       details: |
           GPA: 19.37/20
+
+languages:
+    - idiom: Persian
+      level: native
+    - idiom: English
+      level: Professional
 
 experiences:
     - role: Research Assistant
