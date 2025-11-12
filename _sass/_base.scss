@@ -171,8 +171,13 @@ p {
     .section {
         margin-bottom: 10px;
     }
-
-    .experiences-section, .educations-section {
+    .educations-section {
+        .item {
+            margin-bottom: 30px;
+        }
+    }
+    .experiences-section {
+        margin-bottom: 400px;
         .item {
             margin-bottom: 30px;
         }
