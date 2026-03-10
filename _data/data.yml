@@ -84,8 +84,10 @@ experiences:
       time: July 2019 - Nov. 2019
       company: danaXa, City, Australian Capital Territory, Australia
       details: |
-        danaXa is a  Computer Vision company that provides the 
-        state-of-the-art action recognition and object detection solutions. I worked as a research engineer at danaXa remotely, providing state of the art software services in compute vision related businesses.
+        danaXa is a computer vision company providing state-of-the-art action recognition and object detection solutions.
+        - Integrated pattern recognition and computer vision models (object detection/recognition) into the company’s online platform.
+        - Contributed to dLabel, a web-based image and video annotation system designed for scalable data labeling workflows.
+        - Implemented components supporting object labeling and classification, enabling efficient dataset creation for computer vision models.
     - role: Research Intern
       time: July 2018 - Sept. 2018
       company: RIKEN Center for Advanced Intelligence Project, Kyoto, Japan
