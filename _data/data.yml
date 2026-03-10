@@ -48,7 +48,7 @@ career-profile:
 education:
     - degree: PhD in Psychiatry
       university: University of Melbourne
-      time: 2021 - present
+      time: 2021 - 2025
       details: |
           Mebourne Neuropsychiatry Centre
     - degree: MSc in Artificial Intelligence
@@ -104,7 +104,7 @@ experiences:
       time: June 2015 - Sept. 2015
       company: Natural Language Processing Laboratory, University of Tehran
       details: |
-        Examination of the use of maximizing the spread of influence through a social network in automatic text summarization
+        Developed implementations of influence maximization algorithms for social networks and applied them to automatic text summarization, comparing their efficiency and performance.
           - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
           
 projects:
@@ -314,7 +314,7 @@ volunteers:
         time: Jan. 2023 - Dec. 2023
         company: University of Melbourne
         details: |
-          SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students.
+          SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students. As the presdient, I:
           - Coordinated academic and social events to enhance student engagement and professional development
           - Liaised between students and department leadership through regular strategy meetings.
 
@@ -322,9 +322,9 @@ volunteers:
         time: April 2023 - Sept. 2023
         company: University of Melbourne
         details: |
-          UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community.
-          - Provided organisational support for cultural, academic, and social initiatives.
-          - Contributed to event preparation and operational support for cultural and community events
+          UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community. I participated in:
+          - providing organisational support for cultural, academic, and social initiatives.
+          - contributing to event preparation and operational support for cultural and community events
 
 
 courses:
