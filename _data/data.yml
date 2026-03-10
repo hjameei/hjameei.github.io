@@ -93,7 +93,7 @@ experiences:
         I was in the Computational Brain Dynamics team, working on 
         correcting scanner difference of functional MRI data using deep learning.
         - Trained several CNN-based autoencoder–decoder models to identify matching spatial maps across multi-site datasets.
-        -Developed a data harmonization pipeline to map fMRI data from multiple sites into a shared spatial representation.
+        - Developed a conversion framework to transform multi-site fMRI data into a common spatial representation.
         - Under supervision of [Dr. Okito Yamashita](http://www.riken.jp/en/research/labs/aip/goalorient_tech/comput_brain_dyn/)
     - role: Java Enterprise Developer
       time: Feb. 2016 - Oct. 2016
@@ -106,8 +106,10 @@ experiences:
       time: June 2015 - Sept. 2015
       company: Natural Language Processing Laboratory, University of Tehran
       details: |
-        Developed implementations of influence maximization algorithms for social networks and applied them to automatic text summarization, comparing their efficiency and performance.
-          - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
+        In a pair programming setting, I alongsite with my friend:
+        - Implemented and evaluated influence maximization algorithms that simulate information diffusion in social networks.
+        - Applied these algorithms to automatic text summarization and compared their performance with a method proposed by our supervisor.
+        - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
           
 projects:
     title: Other academic projects
