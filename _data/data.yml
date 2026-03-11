@@ -293,9 +293,7 @@ certificates:
 publications:
     title: Publications
     papers:
-      - title: "Image-based meta-and mega-analysis (IBMMA): A unified framework for large-scale, multi-site, neuroimaging data analysis"
-        authors: Steele, N., Huggins, A.A., Morey, R.A., Hussain, A., Russell, C., Suarez-Jimenez, B., Pozzi, E., Jameei, H., Schmaal, L., Veer, I.M. and Waller, L.
-        publication: NeuroImage (2025), p.121554.
+      - title: "Steele, N., Huggins, A.A., Morey, R.A., Hussain, A., Russell, C., Suarez-Jimenez, B., Pozzi, E., <strong>Jameei, H.</strong>, Schmaal, L., Veer, I.M. and Waller, L., 2025. Image-based meta-and mega-analysis (IBMMA): A unified framework for large-scale, multi-site, neuroimaging data analysis. NeuroImage, p.121554."
 
   
 
