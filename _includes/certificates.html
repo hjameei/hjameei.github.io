@@ -13,27 +13,30 @@
     </h2>
     </summary>
 
-    {% for cer in certificates.cerlist %}
-    <div class="item">
+    <div class="item-set">
 
-      <div class="meta">
+      {% for cer in certificates.cerlist %}
+      <div class="item">
 
-        {% if cer.role %}
-        <div class="upper-row">
-          <div class="details">{{ cer.role }}</div>
-        </div><!--//upper-row-->
-        {% endif %}
+        <div class="meta">
 
-        <div class="upper-row">
-          <div class="company">{{ cer.company }}</div>
-          <div class="time">{{ cer.time }}</div>
-        </div>
+          {% if cer.role %}
+          <div class="upper-row">
+            <div class="details">{{ cer.role }}</div>
+          </div><!--//upper-row-->
+          {% endif %}
 
-      </div><!--//meta-->
+          <div class="upper-row">
+            <div class="company">{{ cer.company }}</div>
+            <div class="time">{{ cer.time }}</div>
+          </div>
+
+        </div><!--//meta-->
 
 
-    </div><!--//item-->
-    {% endfor %}
+      </div><!--//item-->
+      {% endfor %}
+    </div>
   </details>
 
 </section><!--//section-->
