@@ -269,6 +269,27 @@ p {
     margin-bottom: 40px;
 }
 
+.item-set {
+    margin-bottom: 40px;
+    .item {
+        margin-bottom: 5px;
+        overflow: hidden;
+    }
+    .level-title {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .level-bar {
+        height: 12px;
+        background: $smoky-white;
+    }
+    .level-bar-inner {
+        height: 12px;
+        background: lighten($theme-color, 15%);
+    }
+}
+
 
 .section-set {
     margin-bottom: 40px;

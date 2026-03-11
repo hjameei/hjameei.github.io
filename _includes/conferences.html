@@ -17,7 +17,8 @@
       {{ conferences.intro | markdownify }}
     </div><!--//intro-->
     {% endif %}
-    <div class="section-set">
+
+    <div class="item-set">
       {% for conference in conferences.papers %}
       <div class="item">
         {% if conference.link %}
@@ -29,7 +30,8 @@
         <div class="publication-conference">{{ conference.conference }}</div>
       </div><!--//item-->
       {% endfor %}
-    </details>
-  </div>
+    
+    </div>
+  </details>
 </section><!--//section-->
 {% endif %}
