@@ -7,15 +7,17 @@
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {% for rinterest in rinterests %}
+    <div class="section-set">
+      {% for rinterest in rinterests %}
 
-      {% if rinterest.link %}
-      <li><a href="{{ rinterest.link }}">{{ rinterest.item }}</a></li>
-      {% else %}
-      <li>{{ rinterest.item }}</li>
-      {% endif %}
+        {% if rinterest.link %}
+        <li><a href="{{ rinterest.link }}">{{ rinterest.item }}</a></li>
+        {% else %}
+        <li>{{ rinterest.item }}</li>
+        {% endif %}
 
-    {% endfor %}
+      {% endfor %}
+    </div>
   </ul>
 
 </div><!--//interests-->

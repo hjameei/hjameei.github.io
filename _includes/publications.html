@@ -11,22 +11,23 @@
       {{ publications.title }}
     </h2>
     </summary>
-
-    {% if publications.intro %}
-    <div class="intro">
-      {{ publications.intro | markdownify }}
-    </div><!--//intro-->
-    {% endif %}
-
-    {% for publication in publications.papers %}
-    <div class="item">
-      {% if publication.link %}
-        <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-      {% else %}
-        <li>{{ publication.title }}</li>
+    <div class="section-set">
+      {% if publications.intro %}
+      <div class="intro">
+        {{ publications.intro | markdownify }}
+      </div><!--//intro-->
       {% endif %}
-    </div><!--//item-->
-    {% endfor %}
+
+      {% for publication in publications.papers %}
+      <div class="item">
+        {% if publication.link %}
+          <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+        {% else %}
+          <li>{{ publication.title }}</li>
+        {% endif %}
+      </div><!--//item-->
+      {% endfor %}
+    </div>
   </details>
 </section><!--//section-->
 {% endif %}

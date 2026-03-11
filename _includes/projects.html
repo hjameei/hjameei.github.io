@@ -18,26 +18,27 @@
     </div><!--//intro-->
     {% endif %}
 
-    {% for project in projects.assignments %}
-      <div class="item">
+    <div class="section-set">
+      {% for project in projects.assignments %}
+        <div class="item">
 
-        <span class="project-title">
-          {% if project.link %}
-          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-          {% else %}
-          {{ project.title }}
-          {% endif %}
-        </span>
-
-        {% if project.tagline %}
-        - <span class="project-tagline">
-            {{ project.tagline | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+          <span class="project-title">
+            {% if project.link %}
+            <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+            {% else %}
+            {{ project.title }}
+            {% endif %}
           </span>
-        {% endif %}
 
-      </div><!--//item-->
-    {% endfor %}
+          {% if project.tagline %}
+          - <span class="project-tagline">
+              {{ project.tagline | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+            </span>
+          {% endif %}
 
+        </div><!--//item-->
+      {% endfor %}
+    </div>
   </details>
 </section><!--//section-->
 {% endif %}

@@ -8,12 +8,14 @@
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for language in languages %}
-    <li>
-      {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
-    </li>
-    {% endfor %}
+    <div class="section-set">
+      {%for language in languages %}
+      <li>
+        {{ language.idiom }}
+        <span class="lang-desc">({{ language.level }})</span>
+      </li>
+      {% endfor %}
+    </div>
   </ul>
 
 </div><!--//interests-->
