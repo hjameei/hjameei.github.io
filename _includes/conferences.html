@@ -17,18 +17,19 @@
       {{ conferences.intro | markdownify }}
     </div><!--//intro-->
     {% endif %}
-
-    {% for conference in conferences.papers %}
-    <div class="item">
-      {% if conference.link %}
-        <li><a href="{{ conference.link }}">{{ conference.title }}</a></li>
-      {% else %}
-        <li>{{ conference.title }}</li>
-      {% endif %}
-      <div class="publication-authors">{{ conference.authors }}</div>
-      <div class="publication-conference">{{ conference.conference }}</div>
-    </div><!--//item-->
-    {% endfor %}
-  </details>
+    <div class="section-set">
+      {% for conference in conferences.papers %}
+      <div class="item">
+        {% if conference.link %}
+          <li><a href="{{ conference.link }}">{{ conference.title }}</a></li>
+        {% else %}
+          <li>{{ conference.title }}</li>
+        {% endif %}
+        <div class="publication-authors">{{ conference.authors }}</div>
+        <div class="publication-conference">{{ conference.conference }}</div>
+      </div><!--//item-->
+      {% endfor %}
+    </details>
+  </div>
 </section><!--//section-->
 {% endif %}
