@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      I am a Computational Neuroscience PhD graduate with expertise in data science, 
+      I am a PhD graduate with expertise in data science, 
       machine learning, and large-scale data analysis. My work focuses on building data pipelines
       and applying statistical and machine learning methods to analyze complex neuroimaging and 
       behavioral datasets. Currently, I develop data processing workflows and perform 
@@ -82,13 +82,23 @@ experiences:
         - Applied statistical modeling techniques including meta-analysis and mega-analysis to analyze multi-site brain imaging data.
         - Generated insights into brain–behavior relationships associated with depression in young adults.
         - Under supervision of [Dr. Elena Pozzi](https://findanexpert.unimelb.edu.au/profile/770486-elena-pozzi)
+
+    - role: PhD Candidate
+      time: Feb. 2021 - Dec. 2024
+      company: University of Melbourne
+      details: |
+        - Analyzed large-scale multimodal datasets (UK Biobank; N≈28k) integrating genomic and neuroimaging data to investigate brain structural variability in psychiatric disorders.
+        - Developed polygenic risk score–based statistical models to quantify associations between genetic liability and brain morphology.
+        - Designed reproducible data processing and analysis pipelines for high-dimensional neuroimaging and genetic datasets.
+        - Conducted a systematic review and meta-analysis of 50+ MRI studies examining the relationship between schizophrenia polygenic risk and brain structure.
+        - Under supervision of [Dr. Maria Di Biase](https://findanexpert.unimelb.edu.au/profile/425910-maria-di-biase) and [Prof. Andrew Zalesky](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
     - role: Research Assistant
       time: Sept. 2017 - Oct. 2021
       company: Machine Learning and Computational Modeling Laboratory, University of Tehran
       details: |
         - Designed behavioral experiments, collected behavioral data, and applied statistical modeling to study shifts in risk preference under framing effects.
         - Contributed to research investigating the neural mechanisms of decision-making, as part of the Machine Learning and Computational Modeling Laboratory.
-        - Under supervision of [Dr. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi) and [AbdolHossein Vahabie](https://ece.ut.ac.ir/en/~h.vahabie)
+        - Under supervision of [Prof. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi) and [AbdolHossein Vahabie](https://ece.ut.ac.ir/en/~h.vahabie)
     - role: Research Engineer
       time: July 2019 - Nov. 2019
       company: danaXa, City, Australian Capital Territory, Australia
