@@ -39,12 +39,12 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      My name is Hadis Jameei. I completed MSc. in Artificial Intelligence at Univeristy of Tehran, 
-      and have a background of Computer Engineering. 
-      I  am highly interested in applications of artificial intelligence, 
-      machine learning, statistical data analysis in neuroscience. 
-      I have a vast experience in Python and R, 
-      and I am broadening my knowledge in applications of bioinformatics in neuroscience. 
+      I am a Computational Neuroscience PhD graduate with expertise in data science, 
+      machine learning, and large-scale data analysis. My work focuses on building data pipelines
+      and applying statistical and machine learning methods to analyze complex neuroimaging and 
+      behavioral datasets. Currently, I develop data processing workflows and perform 
+      large-scale statistical analyses on international neuroimaging datasets (e.g., ENIGMA) 
+      to study brain–behavior relationships in depression.
 education:
     - degree: PhD in Psychiatry
       university: University of Melbourne
@@ -74,6 +74,14 @@ languages:
       level: professional
 
 experiences:
+    - role: Research Assistant
+      time: Feb. 2024 - present
+      company: Orygen Centre for Youth Mental Health
+      details: |
+        - Built data processing and extraction pipelines for large-scale neuroimaging datasets from international consortia (e.g., ENIGMA).
+        - Applied statistical modeling techniques including meta-analysis and mega-analysis to analyze multi-site brain imaging data.
+        - Generated insights into brain–behavior relationships associated with depression in young adults.
+        - Under supervision of [Dr. Elena Pozzi](https://findanexpert.unimelb.edu.au/profile/770486-elena-pozzi)
     - role: Research Assistant
       time: Sept. 2017 - Oct. 2021
       company: Machine Learning and Computational Modeling Laboratory, University of Tehran
