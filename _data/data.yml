@@ -342,48 +342,48 @@ conferences:
         conference: 9<sup>th</sup> Basic and Clinical Neuroscience Congress (2020)
           
 volunteers:
-  title: Volunteer work
-  experiences:
-  
-    - role: Participant
-      time: 2025
-      company: TRAM Track, Translating Research at Melbourne (TRAM), University of Melbourne
-      details: |
-        - Participated in a 8-week research commercialisation pre-accelerator focused on customer discovery and market validation.
-        - Applied entrepreneurial frameworks to evaluate the real-world impact and potential applications of research ideas.
-        - Engaged with mentors and workshops to develop innovation and industry engagement skills.
+    title: Volunteer work
 
-    - role: Mentee
-      time: 2023 - 2024
-      company: Industry Mentoring Network in STEM (IMNIS)
-      details: |
-        IMNIS (Industry Mentoring Network in STEM) is an ATSE-led national mentoring program that connects PhD researchers with industry mentors to develop industry skills, professional networks, and knowledge of research translation and career pathways beyond academia.
-        - Engaged with an industry mentor to develop industry awareness, professional skills, and understanding of research translation and commercialisation.
-        - Participated in professional development workshops and networking events connecting academia and industry.
+    experiences:
+      - role: Participant
+        time: 2025
+        company: TRAM Track, Translating Research at Melbourne (TRAM), University of Melbourne
+        details: |
+          - Participated in a 8-week research commercialisation pre-accelerator focused on customer discovery and market validation.
+          - Applied entrepreneurial frameworks to evaluate the real-world impact and potential applications of research ideas.
+          - Engaged with mentors and workshops to develop innovation and industry engagement skills.
 
-   - role: Participant
-      time: 2023
-      company: PhD Innovators Program, Translating Research at Melbourne (TRAM), University of Melbourne
-      details: |
-        - Participated in a 7-week innovation and entrepreneurship program for PhD researchers.
-        - Attended workshops and guest lectures on research translation, venture development, and real-world impact.
-        - Collaborated with peers to explore entrepreneurial applications of academic research.
+      - role: Mentee
+        time: 2023 - 2024
+        company: Industry Mentoring Network in STEM (IMNIS)
+        details: |
+          IMNIS (Industry Mentoring Network in STEM) is an ATSE-led national mentoring program that connects PhD researchers with industry mentors to develop industry skills, professional networks, and knowledge of research translation and career pathways beyond academia.
+          - Engaged with an industry mentor to develop industry awareness, professional skills, and understanding of research translation and commercialisation.
+          - Participated in professional development workshops and networking events connecting academia and industry.
 
-    - role: President of Students of Neuropsychiatry Research (SONR)
-      time: Jan. 2023 - Dec. 2023
-      company: University of Melbourne
-      details: |
-        SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students. As the presdient, I:
-        - Coordinated academic and social events to enhance student engagement and professional development
-        - Liaised between students and department leadership through regular strategy meetings.
+      - role: Participant
+        time: 2023
+        company: PhD Innovators Program, Translating Research at Melbourne (TRAM), University of Melbourne
+        details: |
+          - Participated in a 7-week innovation and entrepreneurship program for PhD researchers.
+          - Attended workshops and guest lectures on research translation, venture development, and real-world impact.
+          - Collaborated with peers to explore entrepreneurial applications of academic research.
 
-    - role: Committee member of University of Melbourne Iranian Society (UMIS)
-      time: April 2023 - Sept. 2023
-      company: University of Melbourne
-      details: |
-        UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community. I participated in:
-        - providing organisational support for cultural, academic, and social initiatives.
-        - contributing to event preparation and operational support for cultural and community events
+      - role: President of Students of Neuropsychiatry Research (SONR)
+        time: Jan. 2023 - Dec. 2023
+        company: University of Melbourne
+        details: |
+          SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students. As the presdient, I:
+          - Coordinated academic and social events to enhance student engagement and professional development
+          - Liaised between students and department leadership through regular strategy meetings.
+
+      - role: Committee member of University of Melbourne Iranian Society (UMIS)
+        time: April 2023 - Sept. 2023
+        company: University of Melbourne
+        details: |
+          UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community. I participated in:
+          - providing organisational support for cultural, academic, and social initiatives.
+          - contributing to event preparation and operational support for cultural and community events
 
 
 courses:
