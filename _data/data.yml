@@ -85,7 +85,7 @@ experiences:
 
     - role: PhD Candidate
       time: Feb. 2021 - Dec. 2024
-      company: University of Melbourne
+      company: Department of Psychiatry, University of Melbourne
       details: |
         - Analyzed large-scale multimodal datasets (UK Biobank; N≈28k) integrating genomic and neuroimaging data to investigate brain structural variability in psychiatric disorders.
         - Developed polygenic risk score–based statistical models to quantify associations between genetic liability and brain morphology.
@@ -343,6 +343,14 @@ conferences:
           
 volunteers:
     title: Volunteer work
+    experience:
+    - role: Mentee
+      time: 2023 - 2024
+      company: Industry Mentoring Network in STEM (IMNIS)
+      details: |
+        IMNIS (Industry Mentoring Network in STEM) is an ATSE-led national mentoring program that connects PhD researchers with industry mentors to develop industry skills, professional networks, and knowledge of research translation and career pathways beyond academia.
+        - Engaged with an industry mentor to develop industry awareness, professional skills, and understanding of research translation and commercialisation.
+        - Participated in professional development workshops and networking events connecting academia and industry.
 
     experiences:
       - role: President of Students of Neuropsychiatry Research (SONR)
