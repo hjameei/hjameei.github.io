@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Hadis Jameei
-    tagline: PhD candidate at University of Melbourne
+    tagline: PhD candidate at the University of Melbourne
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -112,7 +112,7 @@ experiences:
       company: RIKEN Center for Advanced Intelligence Project, Kyoto, Japan
       details: |
         I was in the Computational Brain Dynamics team, working on 
-        correcting scanner difference of functional MRI data using deep learning.
+        correcting scanner differences of functional MRI data using deep learning.
         - Trained several CNN-based autoencoder–decoder models to identify matching spatial maps across multi-site datasets.
         - Developed a conversion framework to transform multi-site fMRI data into a common spatial representation.
         - Under supervision of [Dr. Okito Yamashita](http://www.riken.jp/en/research/labs/aip/goalorient_tech/comput_brain_dyn/)
@@ -127,7 +127,7 @@ experiences:
       time: June 2015 - Sept. 2015
       company: Natural Language Processing Laboratory, University of Tehran
       details: |
-        In a pair programming setting, I alongside with my friend:
+        In a pair programming setting, I worked alongside my friend and:
         - Implemented and evaluated influence maximization algorithms that simulate information diffusion in social networks.
         - Applied these algorithms to automatic text summarization and compared their performance with a method proposed by our supervisor.
         - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
@@ -150,7 +150,7 @@ projects:
 
       - title: Data Analytics
         link: 
-        tagline: Implementation of a convolutional neural network for classifying CIFAR-100 images with an accuracy of 60%,, developed in Python using Tensorflow
+        tagline: Implementation of a convolutional neural network for classifying CIFAR-100 images with an accuracy of 60%,, developed in Python using TensorFlow
 
       - title: Advanced Robotics
         link: 
@@ -158,7 +158,7 @@ projects:
 
       - title: Machine Learning
         link:
-        tagline: Implementation of SARSA and Q-Learning algorithms for an RL-learning Snake in high dimensional space, developed in Python
+        tagline: Implementation of SARSA and Q-Learning algorithms for anreinforcement learning (RL) Snake agent in high dimensional space, developed in Python
 
       - title: Pattern Recognition
         link:
@@ -182,7 +182,7 @@ projects:
 
       - title: Social Networks
         link:
-        tagline: Simulation of random graphs generation process for different models (Erdos-Renyi, Watts- Strogatz, and scale-free) and study their degree distribution and other properties, developed in Java
+        tagline: Simulation of random graphs generation process for different models (Erdos-Renyi, Watts-Strogatz, and scale-free) and study their degree distribution and other properties, developed in Java
       
       - title: Final Graduation Project
         link:
@@ -202,7 +202,7 @@ projects:
 
       - title: Internet Engineering
         link:
-        tagline: Design and implementation of an IoT project, a routing system based on air pollution (Android application and website), developed in developed in RoR and Android application
+        tagline: Design and implementation of an IoT project, a routing system based on air pollution (Android application and website), developed in RoR and Android application
 
       - title: Compiler Design and Construction
         link:
@@ -214,15 +214,15 @@ projects:
 
       - title: Operating Systems
         link:
-        tagline: Design and implementation of a client-server multi-thread stocks system, devleoped in C
+        tagline: Design and implementation of a client-server multi-thread stock system, developed in C
       
       - title: Computer Architecture Lab
         link:
-        tagline: Pipeline implementation of a MIPS-like processor on DE2 board, defveloped in Quartus II (Verilog)
+        tagline: Pipeline implementation of a MIPS-like processor on DE2 board, developed in Quartus II (Verilog)
 
       - title: Computer Architecture
         link:
-        tagline: Implementation of single cycle, multi-cycle and pipelined MIPS-like processor, developed in Modelim (Verilog)
+        tagline: Implementation of single cycle, multi-cycle and pipelined MIPS-like processor, developed in ModelSim (Verilog)
 
       - title: Computer Architecture
         link:
@@ -230,7 +230,7 @@ projects:
 
       - title: Artificial Intelligence
         link:
-        tagline: Implementation of minimax algorithm with alpha-beta pruning for for-in-a-row game, defveloped in Python
+        tagline: Implementation of minimax algorithm with alpha-beta pruning for four-in-a-row game, developed in Python
 
       - title: Data Structures and Algorithm
         link:
@@ -264,7 +264,7 @@ honors:
         time: 2018
         company: School of ECE, University of Tehran
 
-      - role: Granted reseach scholarship
+      - role: Granted research scholarship
         time: 2018
         company: Cognitive Sciences and Technologies Council #[Cognitive Sciences and Technologies Council](https://cogc.ir/?lang=2)
 
@@ -304,7 +304,7 @@ certificates:
         time: Sept. 2017
         company: National Brain Mapping Laboratory
 
-      - role: Completion of Ericssons ICT Professional Foundation Program
+      - role: Completion of Ericsson's ICT Professional Foundation Program
         time: Nov. 2015
         company: Ericsson Middle East University Program
 
@@ -366,14 +366,14 @@ volunteers:
         company: PhD Innovators Program, Translating Research at Melbourne (TRAM), University of Melbourne
         details: |
           - Participated in a 7-week innovation and entrepreneurship program for PhD researchers.
-          - Attended workshops and guest lectures on research translation, venture development, and real-world impact.
+          - Attended workshops and guest lectures on research translation, venture development and real-world impact.
           - Collaborated with peers to explore entrepreneurial applications of academic research.
 
       - role: President of Students of Neuropsychiatry Research (SONR)
         time: Jan. 2023 - Dec. 2023
         company: University of Melbourne
         details: |
-          SONR is a student-led committee within the Department of Psychiatry at University of Melbourne, supporting the academic, professional, and social development of postgraduate students.
+          SONR is a student-led committee within the Department of Psychiatry at the University of Melbourne that supports the academic, professional and social development of postgraduate students.
           - Coordinated academic and social events to enhance student engagement and professional development
           - Liaised between students and department leadership through regular strategy meetings.
 
@@ -381,7 +381,7 @@ volunteers:
         time: April 2023 - Sept. 2023
         company: University of Melbourne
         details: |
-          UMIS is a student-led committee supporting Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community.
+          UMIS is a student-led committee that supports Iranian students, staff, and alumni by organising cultural celebrations and social activities, and promoting Iranian culture within the wider university community.
           - Provided organisational support for cultural, academic, and social initiatives.
           - Contributed to event preparation and operational support for cultural and community events
 
@@ -416,11 +416,11 @@ skills:
     toolset:
       - category: Programming languages
         items:
-          - item: Python, R, MATLAB, Jave, C/C++, SQL, HTML
+          - item: Python, R, MATLAB, Java, C/C++, SQL, HTML
       - category: Libraries
         items:
           - item: NumPy, Pandas, SciPy, SciKit-Learn, Matplotlib, TensorFlow, Pytorch, NetworkX, Pygame
-      - category: Tools &amp; framekworks
+      - category: Tools &amp; frameworks
         items:
           - item: PostgreSQL, Oracle SQL Developer, Ruby on Rails 
         
