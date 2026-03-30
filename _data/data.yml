@@ -41,10 +41,10 @@ career-profile:
     summary: |
       I am a PhD graduate with expertise in data science, 
       machine learning, and large-scale data analysis. My work focuses on building data pipelines
-      and applying statistical and machine learning methods to analyze complex neuroimaging and 
-      behavioral datasets. Currently, I develop data processing workflows and perform 
+      and applying statistical and machine learning methods to analyse complex neuroimaging and 
+      behavioural datasets. Currently, I develop data processing workflows and perform 
       large-scale statistical analyses on international neuroimaging datasets (e.g., ENIGMA) 
-      to study brain–behavior relationships in depression.
+      to study brain–behaviour relationships in depression.
 education:
     - degree: PhD in Psychiatry
       university: University of Melbourne
@@ -79,29 +79,30 @@ experiences:
       company: Orygen Centre for Youth Mental Health
       details: |
         - Built data processing and extraction pipelines for large-scale neuroimaging datasets from international consortia (e.g., ENIGMA).
-        - Applied statistical modeling techniques including meta-analysis and mega-analysis to analyze multi-site brain imaging data.
-        - Generated insights into brain–behavior relationships associated with depression in young adults.
+        - Applied statistical modelling techniques including meta-analysis and mega-analysis to analyse multi-site brain imaging data.
+        - Generated insights into brain–behaviour relationships associated with depression in young adults.
         - Under supervision of [Dr. Elena Pozzi](https://findanexpert.unimelb.edu.au/profile/770486-elena-pozzi)
 
     - role: PhD Candidate
       time: Feb. 2021 - Dec. 2024
       company: Department of Psychiatry, University of Melbourne
       details: |
-        - Analyzed large-scale multimodal datasets (UK Biobank; N≈28k) integrating genomic and neuroimaging data to investigate brain structural variability in psychiatric disorders.
+        - Analysed large-scale multimodal datasets (UK Biobank; N≈28k) integrating genomic and neuroimaging data to investigate brain structural variability in psychiatric disorders.
         - Developed polygenic risk score–based statistical models to quantify associations between genetic liability and brain morphology.
         - Designed reproducible data processing and analysis pipelines for high-dimensional neuroimaging and genetic datasets.
+        - Developed a data pipeline to map diagnostic heterogeneity in the UK Biobank, integrating clinical and self-reported data to define analysis-ready cohorts
         - Conducted a systematic review and meta-analysis of 50+ MRI studies examining the relationship between schizophrenia polygenic risk and brain structure.
-        - Under supervision of [Dr. Maria Di Biase](https://findanexpert.unimelb.edu.au/profile/425910-maria-di-biase) and [Prof. Andrew Zalesky](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
+        - Under supervision of [A/Prof. Maria Di Biase](https://findanexpert.unimelb.edu.au/profile/425910-maria-di-biase) and [Prof. Andrew Zalesky](https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky)
     - role: Research Assistant
       time: Sept. 2017 - Oct. 2021
       company: Machine Learning and Computational Modeling Laboratory, University of Tehran
       details: |
-        - Designed behavioral experiments, collected behavioral data, and applied statistical modeling to study shifts in risk preference under framing effects.
-        - Contributed to research investigating the neural mechanisms of decision-making, as part of the Machine Learning and Computational Modeling Laboratory.
+        - Designed behavioural experiments, collected behavioural data, and applied statistical modelling to study shifts in risk preference under framing effects.
+        - Contributed to research investigating the neural mechanisms of decision-making, including participant recruitment and functional data analysis.
         - Under supervision of [Prof. Babak Nadjar Araabi](https://ece.ut.ac.ir/en/~araabi) and [AbdolHossein Vahabie](https://ece.ut.ac.ir/en/~h.vahabie)
     - role: Research Engineer
       time: July 2019 - Nov. 2019
-      company: danaXa, City, Australian Capital Territory, Australia
+      company: danaXa, Tehran, Iran
       details: |
         danaXa is a computer vision company providing state-of-the-art action recognition and object detection solutions. Working remotely from Tehran, Iran, I:
         - Integrated pattern recognition and computer vision models (object detection/recognition) into the company’s online platform.
@@ -128,8 +129,8 @@ experiences:
       company: Natural Language Processing Laboratory, University of Tehran
       details: |
         In a pair programming setting, I worked alongside my friend and:
-        - Implemented and evaluated influence maximization algorithms that simulate information diffusion in social networks.
-        - Applied these algorithms to automatic text summarization and compared their performance with a method proposed by our supervisor.
+        - Implemented and evaluated influence maximisation algorithms that simulate information diffusion in social networks.
+        - Applied these algorithms to automatic text summarisation and compared their performance with a method proposed by our supervisor.
         - Under supervision of [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
           
 projects:
@@ -142,11 +143,11 @@ projects:
 
       - title: An Introduction to Cognitive Neuroscience
         link: 
-        tagline: Implementation of Hudgin-Huxly equation for modeling a single neuron behavior under different currents using 4<sup>th</sup> order Runge-Kutta method, developed in MATLAB
+        tagline: Implementation of Hudgin-Huxly equation for modelling a single neuron behaviour under different currents using 4<sup>th</sup> order Runge-Kutta method, developed in MATLAB
 
       - title: Bio-inspired Engineering
         link: 
-        tagline: Solving the vehicle routing problem using ant colony optimization algorithm, developed in Python
+        tagline: Solving the vehicle routing problem using ant colony optimisation algorithm, developed in Python
 
       - title: Data Analytics
         link: 
@@ -154,7 +155,7 @@ projects:
 
       - title: Advanced Robotics
         link: 
-        tagline: Implementation of particle filter algorithm for localization of E-puck mobile robot, developed in C++ using Visual Studio and Webots
+        tagline: Implementation of particle filter algorithm for localisation of E-puck mobile robot, developed in C++ using Visual Studio and Webots
 
       - title: Machine Learning
         link:
@@ -194,7 +195,7 @@ projects:
 
       - title: Software Engineering
         link:
-        tagline: Implementation of a core banking project, handling synchronized transactions, developed in Java using Maven plugin
+        tagline: Implementation of a core banking project, handling synchronised transactions, developed in Java using Maven plugin
 
       - title: System Analysis and Design
         link:
@@ -210,7 +211,7 @@ projects:
 
       - title: Operating Systems Lab
         link:
-        tagline: Implementation of system call, synchronization, scheduling and memory management in Linux kernel programming, developed in C
+        tagline: Implementation of system call, synchronisation, scheduling and memory management in Linux kernel programming, developed in C
 
       - title: Operating Systems
         link:
@@ -341,6 +342,16 @@ conferences:
         authors: Hadis Jameei
         conference: 9<sup>th</sup> Basic and Clinical Neuroscience Congress (2020)
           
+
+teachings:
+    title: Teaching Experience
+
+    teachinglist:
+      - course: Cognitive Psychology
+        time: Semester 2 - 2023
+        university: University of Melbourne
+
+
 volunteers:
     title: Volunteer work
 
@@ -374,7 +385,7 @@ volunteers:
         company: University of Melbourne
         details: |
           SONR is a student-led committee within the Department of Psychiatry at the University of Melbourne that supports the academic, professional and social development of postgraduate students.
-          - Coordinated academic and social events to enhance student engagement and professional development
+          - Coordinated academic and social events to enhance student engagement and professional development.
           - Liaised between students and department leadership through regular strategy meetings.
 
       - role: Committee member of University of Melbourne Iranian Society (UMIS)
