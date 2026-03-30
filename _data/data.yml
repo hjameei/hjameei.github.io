@@ -350,8 +350,29 @@ teachings:
       - course: Cognitive Psychology
         time: Semester 2 - 2023
         university: University of Melbourne
-
-
+      - course: An Introduction to Cognitive Neuroscience
+        time: Semester 2 - 2020
+        university: University of Tehran
+      - course: Statistical Inference
+        time: Semester 2 - 2018
+        university: University of Tehran
+      - course: Machine Learning
+        time: Semester 1 - 2017
+        university: University of Tehran
+      - course: Theory of Formal Languages and Automata
+        time: Semester 2 - 2016
+        university: University of Tehran
+      - course: Artificial Intelligence
+        time: Semester 2 - 2015
+        university: University of Tehran
+      - course: Artificial Intelligence
+        time: Semester 1 - 2015
+        university: University of Tehran
+      - course: Engineering Mathematics
+        time: Semester 1 - 2014
+        university: University of Tehran
+  
+                
 volunteers:
     title: Volunteer work
 
